@@ -3,8 +3,6 @@ A Twitter API that is based around AJAX for Python3
 
 This project is currently in development. If you want to contribute please make a pull request.
 
----
-
 ## FAQ
 
 **Q: Why don't you use requests?**
